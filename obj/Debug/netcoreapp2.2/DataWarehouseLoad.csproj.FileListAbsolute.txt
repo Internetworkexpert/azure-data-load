@@ -1,0 +1,11 @@
+D:\Demos\DataWarehouseLoad\bin\Debug\netcoreapp2.2\DataWarehouseLoad.deps.json
+D:\Demos\DataWarehouseLoad\bin\Debug\netcoreapp2.2\DataWarehouseLoad.runtimeconfig.json
+D:\Demos\DataWarehouseLoad\bin\Debug\netcoreapp2.2\DataWarehouseLoad.runtimeconfig.dev.json
+D:\Demos\DataWarehouseLoad\bin\Debug\netcoreapp2.2\DataWarehouseLoad.dll
+D:\Demos\DataWarehouseLoad\bin\Debug\netcoreapp2.2\DataWarehouseLoad.pdb
+D:\Demos\DataWarehouseLoad\obj\Debug\netcoreapp2.2\DataWarehouseLoad.csprojAssemblyReference.cache
+D:\Demos\DataWarehouseLoad\obj\Debug\netcoreapp2.2\DataWarehouseLoad.csproj.CoreCompileInputs.cache
+D:\Demos\DataWarehouseLoad\obj\Debug\netcoreapp2.2\DataWarehouseLoad.AssemblyInfoInputs.cache
+D:\Demos\DataWarehouseLoad\obj\Debug\netcoreapp2.2\DataWarehouseLoad.AssemblyInfo.cs
+D:\Demos\DataWarehouseLoad\obj\Debug\netcoreapp2.2\DataWarehouseLoad.dll
+D:\Demos\DataWarehouseLoad\obj\Debug\netcoreapp2.2\DataWarehouseLoad.pdb
