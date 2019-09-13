@@ -15,7 +15,7 @@ namespace DataWarehouseLoad
             var client = account.CreateCloudBlobClient();
             var container = client.GetContainerReference("demographics");
             container.CreateIfNotExists();
-            foreach(var file in Directory.GetFiles($"{Environment.CurrentDirectory}\\CountyDelimited")) {
+            foreach(var file in Directory.GetFiles($"{Environment.CurrentDirectory}//CountyDelimited")) {
                 var blob = container.GetBlockBlobReference(Path.GetFileName(file).ToLower());
                 blob.UploadFromFile(file);
             }
